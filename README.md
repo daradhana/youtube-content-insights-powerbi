@@ -51,6 +51,20 @@ youtube-content-insights-powerbi/
 2. Open it in Microsoft Power BI Desktop.
 3. Use the page navigation and report filters to explore the dashboard.
 
+## Dashboard Preview
+
+### 1. Channel Performance Overview
+
+![Channel Performance Overview](screenshots/overview.png)
+
+### 2. Videos Posted Analysis
+
+![Videos Posted Analysis](screenshots/posted-videos.png)
+
+### 3. Viewer Countries Analysis
+
+![Viewer Countries Analysis](screenshots/viewer-countries.png)
+
 ## Key Findings
 
 - **Publishing Trends:** Video publishing peaked in 2024, with 81 videos, compared with 45 in 2023. This represents an increase of 80% in the number of videos published year over year.
