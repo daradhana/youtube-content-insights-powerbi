@@ -75,7 +75,7 @@ youtube-content-insights-powerbi/
 
 ## About
 **Author:** Aradhana Srivastava
-**GitHub:** https://github.com/daradhana 
+**GitHub:** https://github.com/daradhana
 **LinkedIn:** https://www.linkedin.com/in/daradhanasri25/
 ---
 
